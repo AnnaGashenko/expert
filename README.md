@@ -4,7 +4,7 @@ CRM cистема была спроектирована с нуля, на соб
 
 В разработке применялись такие технологии:
 
-- ООП, PHP, JavaScript, MySQL, AJAX, JSON, JQUERY, HTML, CSS, BOOTSRAP3, Yandex API, TCPDF, PHPExcel
+- ООП, PHP, JavaScript, MySQL, AJAX, JSON, AngularJS, JQUERY, HTML, CSS, BOOTSRAP3, Yandex API, TCPDF, PHPExcel
 
 CRM состоит из таких модулей:
 
